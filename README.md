@@ -7,11 +7,11 @@
 ---
 
 ### 🔬 Research Interests
-- Machine learning and deep learning
-- High-dimensional data modeling and visualization
-- Statistical Genomics, especially spatial omics 
+- Machine Learning and Deep Learning
+- High-dimensional Data Modeling and Visualization
+- Statistical Genomics, especially Spatial Omics 
 - Bayesian Statistics
-- Survival analysis
+- Survival Analysis
 
 ---
 

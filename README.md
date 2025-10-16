@@ -2,14 +2,15 @@
 
 🎓 **Ph.D. Candidate in Biostatistics** @ University of Michigan  
 💡 Researching **statistical and machine learning algorithms for high-dimensional genomic and health data**  
-🌐 [LinkedIn](https://www.linkedin.com/in/yanlin-tong-0001/) | 📧 [Email](mailto:zoetong@umich.edu)
+🌐 [LinkedIn](https://www.linkedin.com/in/yanlin-tong-0001/)  
+📧 zoetong at umich.edu
 
 ---
 
 ### 🔬 Research Interests
-- Machine learning and deep learning  
-- Statistical Genomics, especially spatial omics 
+- Machine learning and deep learning
 - High-dimensional data modeling and visualization
+- Statistical Genomics, especially spatial omics 
 - Bayesian Statistics
 - Survival analysis
 
@@ -21,4 +22,4 @@
 
 ---
 
-> ✨ *Bridging statistics and data science to uncover meaningful biological insights.*
+> ✨ *Bridging statistics and data science to uncover meaningful real-world insights.*

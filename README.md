@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there 👋 I'm Yanlin Tong
 
-<!--
-**YanlinTong/YanlinTong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Ph.D. Candidate in Biostatistics** @ University of Michigan  
+💡 Researching **statistical and machine learning algorithms for high-dimensional genomic data**  
+🌐 Linkedin: https://www.linkedin.com/in/yanlin-tong-0001/
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Research Interests
+- Machine learning, deep learning  
+- Genomics, especially spatial omics  
+- High-dimensional data modeling and visualization  
+- Survival analysis  
+
+---
+
+### 🧠 Technical Skills
+**Languages:** R, Python, SQL, SAS, C++, Unix Shell  
+**Analysis/Research Tools:** Shiny, Git, Stata, LaTeX, HPC Cluster, Microsoft

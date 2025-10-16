@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Yanlin Tong
 
 🎓 **Ph.D. Candidate in Biostatistics** @ University of Michigan  
-💡 Researching **statistical and machine learning algorithms for high-dimensional genomic and spatial omics data**  
-🌐 [LinkedIn](https://www.linkedin.com/in/yanlin-tong-0001/) | 📧 [Email](zoetong@umich.edu)
+💡 Researching **statistical and machine learning algorithms for high-dimensional genomic and health data**  
+🌐 [LinkedIn](https://www.linkedin.com/in/yanlin-tong-0001/) | 📧 [Email](mailto:zoetong@umich.edu)
 
 ---
 

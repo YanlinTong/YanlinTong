@@ -2,8 +2,7 @@
 
 🎓 **Ph.D. Candidate in Biostatistics** @ University of Michigan  
 💡 Researching **statistical and machine learning algorithms for high-dimensional genomic and health data**  
-🌐 [LinkedIn](https://www.linkedin.com/in/yanlin-tong-0001/)  
-📧 zoetong at umich.edu
+🌐 [LinkedIn](https://www.linkedin.com/in/yanlin-tong-0001/) | 📧 zoetong at umich.edu
 
 ---
 
